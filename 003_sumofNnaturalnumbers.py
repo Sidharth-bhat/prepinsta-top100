@@ -4,7 +4,6 @@ rans = 0
 
 for i in range(num + 1):
     ans = ans + i
-    i = i - 1
 
 print(f"using for loop {ans}")
 
